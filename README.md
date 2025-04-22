@@ -1,4 +1,4 @@
-## Madhav Store Ecommerce Data Analysis##
+## Madhav Store Ecommerce Data Analysis ##
 
 Analysed sales data of a ecommerce store for year 2018 using power bi.
 
